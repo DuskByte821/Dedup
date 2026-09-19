@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-19T22:41:19",
+  "scope": "/home/zain/Scripts/Prog-Scripts/python/dedup/Secn",
+  "files_scanned": 28,
+  "files_modified": 25,
+  "entries_before": 3148462,
+  "entries_after": 2391803,
+  "duplicates_removed": 756659,
+  "internal_duplicates": 5398,
+  "cross_file_duplicates": 751261,
+  "backup_location": "/home/zain/Scripts/Prog-Scripts/python/dedup/.dedup-backups/2026-09-19_223155",
+  "verification_status": "passed"
+}
